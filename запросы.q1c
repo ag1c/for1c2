@@ -1,7 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <querylist>
 	<query name="Новый запрос">
-		<text>ВЫБРАТЬ * ИЗ *
+		<text>ВЫБРАТЬ
+	1 КАК Поле1
 </text>
 	</query>
 </querylist>
