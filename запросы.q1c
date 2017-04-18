@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<querylist>
+	<query name="Новый запрос">
+		<text>ВЫБРАТЬ * ИЗ *
+</text>
+	</query>
+</querylist>
