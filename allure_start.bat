@@ -1,0 +1,1 @@
+oscript allure_start_script.os
